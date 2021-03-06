@@ -1,1 +1,9 @@
 Hello Jenkins thata how are you dng 
+
+
+node("maven label ") 
+Host: new host 
+
+all: servers 
+
+
